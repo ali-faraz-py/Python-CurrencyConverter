@@ -1,0 +1,63 @@
+       /* Currency Coverter CSS */
+
+QWidget {
+    background-color: #fdfdfd;
+    font-family: 'Verdana', sans-serif;
+}
+
+#headline {
+    color: #2d5a27;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#ask_selection {
+    color: #667c63;
+}
+
+QComboBox, QLineEdit {
+    border: 1px solid #ccd5ae;
+    border-radius: 12px;
+    padding: 6px;
+    background-color: #fefae0;
+    color: #333d29;
+}
+
+QComboBox:hover, QLineEdit:focus {
+    border: 1px solid #a3b18a;
+    background-color: #ffffff;
+}
+
+#exchnage_amount_box {
+    background-color: #d4a373;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#swap_button {
+    background-color: #a3b18a;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+#swap_button:hover {
+    background-color: #588157;
+}
+
+QListWidget {
+    background-color: #f8f9f1;
+    border: 1px solid #e9edc9;
+    border-radius: 15px;
+    color: #344e41;
+}
+
+QPushButton {
+    background-color: #588157;
+    color: white;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+#clear_history_button {
+    background-color: #bc6c25;
+}
