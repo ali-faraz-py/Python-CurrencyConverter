@@ -253,9 +253,6 @@ class Currency_Converter(QWidget):
 #        if rates:
 #            dates.reverse()
 #            rates.reverse()
-
-   #     dates = ["Feb 21", "Feb 22", "Feb 23", "Feb 24", "Feb 25", "Feb 26", "Feb 27"]
-    #    rates = [278.1, 279.5, 277.2, 280.0, 279.1, 278.8, 279.4]            
     
 
         try:
