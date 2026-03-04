@@ -1,7 +1,8 @@
 # 💱 Professional Currency Converter
 
-A modern, desktop-based Currency Converter built with **Python**, **PyQt5**, and **Matplotlib**. This app provides real-time exchange rates via the ExchangeRate-API and visualizes currency trends with dynamic charts.
+![Currency Converter Demo](asset\CurrencyCoverter.gif)
 
+A modern, desktop-based Currency Converter built with **Python**, **PyQt5**, and **Matplotlib**. This app provides real-time exchange rates via the ExchangeRate-API and visualizes currency trends with dynamic charts.
 
 
 ## ✨ Features
