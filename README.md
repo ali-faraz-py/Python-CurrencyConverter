@@ -21,13 +21,12 @@ A modern, desktop-based Currency Converter built with **Python**, **PyQt5**, and
 
 Install dependencies:
 
-````bash
+```bash
 pip install -r requirements.txt
 ```
 
 
-python CurrencyConverter.py
-📂 Project Structure
+## 📂 Project Structure
 ```text
 CurrencyConverter/
 ├── CurrencyConverter.py     
