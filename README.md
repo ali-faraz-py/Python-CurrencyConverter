@@ -36,7 +36,7 @@ CurrencyConverter/
 └── README.md    
 ```
 
-🛠️ Built With
+🛠️ **Built With**
 PyQt5 - For the desktop window and widgets.
 
 Requests - To handle API calls to the exchange rate server.
@@ -45,7 +45,7 @@ Matplotlib - To render the 7-day trend graphs.
 
 ExchangeRate-API - The source for real-time global currency data.
 
-🧠 Behind the Logic: The Random Walk
+**🧠 Behind the Logic: The Random Walk**
 Because historical data often requires a paid API subscription, I implemented a Random Walk Algorithm to simulate market movement:
 
 The Seed: The logic starts with the real-time rate fetched from the API.
@@ -54,7 +54,7 @@ The Simulation: It calculates 7 days of data by applying a random variance (up t
 
 The Anchor: To ensure accuracy, the final data point is always locked to the actual current rate.
 
-👤 Author
-Syed Ali Faraz - https://github.com/ali-faraz-py
+### 👤 Author
+**Syed Ali Faraz** - https://github.com/ali-faraz-py
 
 If this project helped you understand PyQt5 or Matplotlib, please give it a ⭐!
